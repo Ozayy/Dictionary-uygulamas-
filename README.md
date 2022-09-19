@@ -1,0 +1,2 @@
+# Dictionary-uygulamas-
+Dictionary egzersiz
